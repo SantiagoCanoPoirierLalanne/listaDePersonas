@@ -2,42 +2,47 @@
   "posts": [
     {
       "id": 1,
-      "img-src":"https://us.hola.com/images/0256-0dcb0ecf18d5-e44c1c05b2ff-1000/vertical-800/jim-carrey-divertidas-caras03.jpg",
+      "img":"https://us.hola.com/images/0256-0dcb0ecf18d5-e44c1c05b2ff-1000/vertical-800/jim-carrey-divertidas-caras03.jpg",
       "name": "Leanne Graham",
       "username": "Bret",
-      "email": "Sincere@april.biz" 
+      "email": "Sincere@april.biz",
+      "city":"Maketu"
     },
 	
     {
       "id": 2,
-      "img-src":"https://static2.abc.es/media/estilo/2017/02/08/cara-kwm-U202521250342CmC-620x650@abc.jpg",
+      "img":"https://static2.abc.es/media/estilo/2017/02/08/cara-kwm-U202521250342CmC-620x650@abc.jpg",
       "name": "Ervin Howell",
       "username": "Antonette",
-      "email": "Shanna@melissa.tv"
+      "email": "Shanna@melissa.tv",
+      "city":"Nueva York"
     },
 
     {
       "id": 3,
-      "img-src":"https://cdn.sincroguia.tv/uploads/programs/l/a/s/las-dos-caras-de-la-verdad-poster-7364_SPA-48_V.jpg",
+      "img":"https://cdn.sincroguia.tv/uploads/programs/l/a/s/las-dos-caras-de-la-verdad-poster-7364_SPA-48_V.jpg",
       "name": "Clementine Bauch",
       "username": "Samantha",
-      "email": "Nathan@yesenia.net"
+      "email": "Nathan@yesenia.net",
+      "city":"Nairobi"
     },
 
     {
       "id": 4,
-      "img-src":"https://www.colonizacionemocional.com/archivos/image/test_caras/01.jpg",
+      "img":"https://www.colonizacionemocional.com/archivos/image/test_caras/01.jpg",
       "name": "Patricia Lebsack",
       "username": "Karianne",
-      "email": "Julianne.OConner@kory.org"
+      "email": "Julianne.OConner@kory.org",
+      "city":"Buenos Aires"
     },
 
     {
       "id": 5,
-      "img-src":"https://www.instyle.es/medio/2018/11/23/tienes-la-cara-redonda-asi-te-tienes-que-maquillar_1c99542d_1200x1575.jpg",
+      "img":"https://www.instyle.es/medio/2018/11/23/tienes-la-cara-redonda-asi-te-tienes-que-maquillar_1c99542d_1200x1575.jpg",
       "name": "Chelsey Dietrich",
       "username": "Kamren",
-      "email": "Lucio_Hettinger@annie.ca"
+      "email": "Lucio_Hettinger@annie.ca",
+      "city":"Melbourne"
     }
   ]
 }
